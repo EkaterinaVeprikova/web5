@@ -6,7 +6,7 @@ date YEAR(4),
 sex VARCHAR(10),
 limb INT(5),
 bio TEXT,
-PRIMARY KEY(id)sh
+PRIMARY KEY(id)
 );
 
 CREATE TABLE powers (
